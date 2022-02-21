@@ -1,3 +1,5 @@
+# Outdated! Use [hack-different's ipwndfu fork](https://github.com/hack-different/ipwndfu)
+
 ![](repo/ipwndfu.png)
 # Open-source jailbreaking tool for many iOS devices 
 
